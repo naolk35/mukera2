@@ -1,0 +1,37 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "drugName": "diclo",
+      "brandName": "Denk",
+      "DrugGroup": "NSAID",
+      "companyName": "abayeHolesale",
+      "amountOnHand": 7,
+      "EXPDate": 2025
+    },
+    {
+      "id": 2,
+      "drugName": "ibuprofen",
+      "DrugGroup": "NSAID",
+      "companyName": "zemHolesale",
+      "amountOnHand": 45,
+      "EXPDate": 2026
+    },
+    {
+      "id": 3,
+      "drugName": "omepra",
+      "DrugGroup": "GIT",
+      "companyName": "tabHolesale",
+      "amountOnHand": 30,
+      "EXPDate": 2027
+    },
+    {
+      "id": 4,
+      "drugName": "amoxa",
+      "DrugGroup": "ANTI BACERIA",
+      "companyName": "abayeHolesale",
+      "amountOnHand": 35,
+      "EXPDate": 2028
+    }
+  ]
+}
